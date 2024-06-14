@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/10week/my-react" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/11week/my-react" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/12week/shopping_app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/13week/shopping_app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3week/mini-blog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3week/my-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3week/my-react" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/4week/my-react" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/5week/my-react" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/7week/my-react" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/9week/my-react" vcs="Git" />
+  </component>
+</project>
